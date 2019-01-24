@@ -1,0 +1,1639 @@
+html 
+ 
+   
+ 
+//a general 'js' detection, must be on top level in <head>, due to CSS performance
+document.documentElement.className = "js";
+var cacheBuster = "108";
+var appBaseUrl = "/";
+var imgEnhancerBreakpoints = [0, 144, 256, 408, 650, 1023, 1597];
+var isLoggingEnabled = true;
+ 
+ 
+ Trump Denies He Fired Comey Over Russia Probe 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {"@context":"http://schema.org","@type":"NewsArticle","inLanguage":"en-US","mainEntityOfPage":"https://www.voanews.com/a/trump-offers-contradictory-explanation-for-comey-firing/4417821.html","url":"https://www.voanews.com/a/trump-offers-contradictory-explanation-for-comey-firing/4417821.html","headline":"Trump Denies He Fired Comey Over Russia Probe","name":"Trump Denies He Fired Comey Over Russia Probe","author":{"@type":"Person","name":"Ken Bredemeier"},"creator":{"@type":"Person","name":"Ken Bredemeier"},"image":{"@type":"ImageObject","url":"https://gdb.voanews.com/4271BC05-4B7C-449F-B3D9-90D432C90CD9_cx0_cy3_cw0_w1080_h608.jpg","width":1080,"height":608},"datePublished":"2018-05-31","dateModified":"2018-05-31 22:58:20Z","keywords":"USA, US Politics","publisher":{"@type":"Organization","url":"https://www.voanews.com","name":"VOA","logo":{"@type":"ImageObject","url":"https://www.voanews.com/Content/responsive/VOA/en-US/img/logo-amp.png","width":144,"height":60}},"description":"US president says Russia probe was not reason for FBI director\u0027s dismissal, contradicting previous explanations","articleSection":"USA"}   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+if (top.location === self.location) { //if not inside of an IFrame
+var renderGtm = "true";
+if (renderGtm === "true") {
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-N8MP7P');
+}
+}
+ 
+ Analytics tag js version start 
+ 
+var utag_data={entity:"VOA",language:"English",language_service:"VOA English",short_language_service:"ENG",property_id:"461",platform:"Responsive",platform_short:"R",runs_js:"Yes",page_title:"Trump Denies He Fired Comey Over Russia Probe",page_type:"4417821",page_name:"Trump Denies He Fired Comey Over Russia Probe",short_headline:"Trump Denies He Fired Comey Over Russia Probe",long_headline:"Trump Denies He Fired Comey Over Russia Probe",headline:"Trump Denies He Fired Comey Over Russia Probe",content_type:"article",subcontent_type:"article",enviro_type:"prod",pub_year:"2018",pub_month:"05",pub_day:"31",pub_hour:"15",pub_minute:"36",pub_weekday:"Thursday",dateline:"WASHINGTON",byline:"Bredemeier, Ken",categories:"usa,us-politics",slug:"trump-offers-contradictory-explanation-for-comey-firing",section:"USA",english_section:"usa",article_uid:"4417821"};
+if(typeof(TealiumTagFrom)==='function' && typeof(TealiumTagSearchKeyword)==='function') {
+var utag_from=TealiumTagFrom();var utag_searchKeyword=TealiumTagSearchKeyword();
+if(utag_searchKeyword!=null && utag_searchKeyword!=='' && utag_data["search_keyword"]==null) utag_data["search_keyword"]=utag_searchKeyword;if(utag_from!=null && utag_from!=='') utag_data["from"]=TealiumTagFrom();}
+(function(a,b,c,d){ a="https://tags.tiqcdn.com/utag/bbg/voa-pangea/prod/utag.js"; b=document;c="script";d=b.createElement(c);d.src=a;d.type="text/java"+c;d.async=true; a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a); })();
+ 
+ Analytics tag js version end 
+  Analytics tag management NoScript  
+ 
+ 
+  End of Analytics tag management NoScript  
+ *** Accessibility links - For ScreenReaders only *** 
+ 
+ 
+ Accessibility links 
+ 
+ Skip to main content 
+ Skip to main Navigation 
+ Skip to Search 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Close 
+ 
+ 
+ 
+ Previous 
+ 
+ 
+ 
+ Next 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gallery: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Print Options: 
+ 
+ 
+ 
+ 
+ Images 
+ 
+ 
+ 
+ Multimedia 
+ 
+ 
+ 
+ 
+ 
+ Embedded Content 
+ 
+ 
+ 
+ Comments 
+ 
+ 
+ 
+ 
+ 
+ Cancel 
+ 
+ 
+ Print 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Languages 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Search 
+ 
+ 
+ 
+ 
+ 
+ Search 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Listen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Watch 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Home   
+ 
+ 
+United States
+ 
+ 
+ 
+ 
+ 
+ U.S. News 
+ 
+ 
+ US Politics 
+ 
+ 
+ All About America 
+ 
+ 
+ Immigration 
+ 
+ 
+ People in America 
+ 
+ 
+ 
+ 
+ 
+ 
+World
+ 
+ 
+ 
+ 
+ 
+ U.S. & The Americas 
+ 
+ 
+ Africa 
+ 
+ 
+ East Asia 
+ 
+ 
+ South & Central Asia 
+ 
+ 
+ Europe 
+ 
+ 
+ Middle East 
+ 
+ 
+ 
+ 
+ 
+ Technology   
+ 
+ Science & Health   
+ 
+ @VOA STUDENTU   
+ 
+ VOA News On Iran   
+ 
+ VOA Connect   
+ 
+ 
+ 
+ Login / Register 
+ 
+ 
+ 
+ 
+ More 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ VOA English TV 
+ 
+ 
+ 
+ VOA English TV 
+ Latest show 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Africa 54 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Upcoming 
+ 
+ 
+ 
+ 
+ 
+ 11:30 - 11:59 
+ 
+ 
+ Africa 54 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 13:30 - 14:30 
+ 
+ 
+ Straight Talk Africa 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ VOA English MC11 
+ 
+ 
+ 
+ VOA English MC11 
+ Latest show 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Shaka: Extra Time 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ More TV 
+ 
+ 
+ OUR BROADCAST PROGRAMS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ VOA Global English 
+ 
+ 
+ 
+ VOA Global English 
+ Listen live 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 16:05 - 17:00 
+ 
+ 
+ LIVE 
+ VOA 1 - The Hits - Larry London 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Upcoming 
+ 
+ 
+ 
+ 
+ 
+ 17:00 - 17:05 
+ 
+ 
+ VOA Newscasts 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 17:05 - 17:30 
+ 
+ 
+ VOA Asia 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 17:30 - 18:00 
+ 
+ 
+ VOA Learning English 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ VOA Africa 
+ 
+ 
+ 
+ VOA Africa 
+ Listen live 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LIVE 
+ VOA Africa 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Upcoming 
+ 
+ 
+ 
+ 
+ 
+ 17:00 - 17:05 
+ 
+ 
+ VOA Newscasts 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 18:00 - 18:05 
+ 
+ 
+ VOA Newscasts 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 20:00 - 20:05 
+ 
+ 
+ VOA Newscasts 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ VOA1 – The Hits 
+ 
+ 
+ 
+ VOA1 – The Hits 
+ Listen live 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LIVE 
+ VOA1 – The Hits 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Upcoming 
+ 
+ 
+ 
+ 
+ 
+ 10:05 - 11:00 
+ 
+ 
+ Border Crossings 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ VOA Newscasts 
+ 
+ 
+ 
+ VOA Newscasts 
+ Latest program 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ VOA Newscasts 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Upcoming 
+ 
+ 
+ 
+ 
+ 
+ 17:00 - 17:04 
+ 
+ 
+ VOA Newscasts 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 18:00 - 18:04 
+ 
+ 
+ VOA Newscasts 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 19:00 - 19:04 
+ 
+ 
+ VOA Newscasts 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ More radio 
+ 
+ 
+ Latest Newscast 
+ 
+ 
+ OUR BROADCAST PROGRAMS 
+ 
+ 
+ Radio Schedule 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Search 
+ 
+ 
+ 
+ 
+ 
+ Search 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Previous 
+ 
+ 
+ 
+ Next 
+ 
+ 
+ 
+ 
+ Breaking News 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Previous 
+ 
+ 
+ 
+ Next 
+ 
+ 
+ 
+ 
+ Live 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VOA 1 - The Hits - Larry London
+ 
+ 
+ 
+ 
+ 
+VOA Africa
+ 
+ 
+ 
+ 
+ 
+VOA1 – The Hits
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ USA   
+   
+Trump Denies He Fired Comey Over Russia Probe
+ 
+   
+ 
+ 
+ 
+Last Updated: May 31, 2018 6:57 PM
+ 
+ 
+ 
+ 
+ 
+ 
+Ken Bredemeier
+ 
+ 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ This combination photo shows President Donald Trump speaking during a roundtable discussion in White Sulphur Springs, West Virginia, April 5, 2018, left, and former FBI director James Comey speaking during a Senate Intelligence Committee hearing on Capitol Hill in Washington on June 8, 2017. 
+ 
+ 
+ 
+   
+ Share 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+Trump Denies He Fired Comey Over Russia Probe
+ 
+ 
+ 
+ share 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Print 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WASHINGTON —  
+ U.S. President Donald Trump said Thursday he did not fire Federal Bureau of Investigation Director James Comey because of the Russia investigation, contradicting previous statements that the probe was the reason for his dismissal. 
+ "Not that it matters but I never fired James Comey because of Russia!," Trump said in a posting on Twitter. He blamed the "Corrupt Mainstream Media" for promoting what he considers a false narrative about Comey's dismissal. 
+ 
+ 
+ 
+/*<![CDATA[*/
+initInfographics(
+{
+groups:[],
+params:[{"Name":"embed_html","Value":"\u0026lt;blockquote class=\"twitter-tweet\" data-lang=\"en\"\u0026gt;\u0026lt;p dir=\"ltr\" lang=\"en\"\u0026gt;Not that it matters but I never fired James Comey because of Russia! The Corrupt Mainstream Media loves to keep pushing that narrative, but they know it is not true!\u0026lt;/p\u0026gt;— Donald J. Trump (@realDonaldTrump) \u0026lt;a href=\"https://twitter.com/realDonaldTrump/status/1002160516733853696?ref_src=twsrc%5Etfw\"\u0026gt;May 31, 2018\u0026lt;/a\u0026gt;\u0026lt;/blockquote\u0026gt;","DefaultValue":"","HtmlEncode":false,"Type":"HTML"}],
+isMobile:true
+});
+ 
+ 
+ 
+(function (d) {
+var userInput = Infographics.Param["embed_html"],
+thisSnippet = (d.getElementsByClassName ? d.getElementsByClassName("twitterSnippet") : d.querySelectorAll(".twitterSnippet"))[0],
+render = function () {
+var eval, bquote, sId = "twitterAPIForSnippet";
+try {
+eval = document.createElement("div");
+eval.innerHTML = userInput;
+} catch (e) {
+thisSnippet.innerHTML = "Twitter Embed Code is invalid or incomplete.";
+return;
+}
+bquote = eval.childNodes[0];
+if (bquote.tagName.toLowerCase() === "blockquote" && bquote.className.indexOf("twitter") !== -1) { //remove everything except paragraphs and links
+var all = bquote.getElementsByTagName("*");
+for (var i = all.length - 1; i >= 0; i--) {
+var elm = all[i];
+var tag = elm.tagName.toLowerCase();
+if (tag !== "a" && tag !== "p")
+all[i].parentNode.removeChild(all[i]);
+}
+} else {
+thisSnippet.innerHTML = "Twitter Embed Code does not contain proper Twitter blockquote.";
+return;
+}
+if (!window.twttr && !d.getElementById(sId)) { //async request Twitter API
+var js, firstJs = d.getElementsByTagName("script")[0];
+js = d.createElement("script");
+js.id = sId;
+js.src = "//platform.twitter.com/widgets.js";
+firstJs.parentNode.insertBefore(js, firstJs);
+}
+thisSnippet.parentNode.style.width = "100%";
+thisSnippet.appendChild(bquote);
+var renderTweets = function () {
+if (window.twttr && window.twttr.widgets) {
+window.twttr.widgets.load();
+window.twttr.events.bind("rendered", function (e) {
+//fix twitter bug rendering multiple embeds per tweet. Can be deleted after Twitter fix the issue
+if (e.target) {
+var par = e.target.parentElement;
+if (par && par.className === "twitterSnippetProcessed" &&
+e.target.previousSibling && e.target.previousSibling.nodeName.toLowerCase() === "iframe") {
+//this is duplicate embed, delete it
+par.removeChild(e.target);
+}
+}
+});
+}
+}
+renderTweets();
+};
+thisSnippet.className = "twitterSnippetProcessed";
+render();
+//if (d.readyState === "uninitialized" || d.readyState === "loading")
+// window.addEventListener("load", render);
+//else //liveblog, ajax
+// render();
+})(document);
+ 
+ 
+ 
+ In an interview last year with NBC TV news anchor Lester Holt, Trump said the Russia probe was foremost on his mind when he decided to fire Comey. 
+ "And in fact when I decided to just do it, I said to myself, I said 'you know, this Russia thing with Trump and Russia is a made-up story, it's an excuse by the Democrats for having lost an election that they should have won." 
+ Trump continues to be consumed by the investigation led by special counsel Robert Mueller, tweeting often that it is a "witch hunt," that there was no collusion between his campaign and Russia, and that he did not obstruct justice by firing Comey last year when he was heading the agency's Russia investigation. 
+ The U.S. Department of Justice reported Thursday that Mueller's investigation has spent $4.5 million on the probe over the past six months. More than half of that sum went to "personnel compensation and benefits," according to a five-page release by the department. 
+ Trump also claims the FBI planted a spy in his 2016 campaign in an effort to undermine his candidacy. In reality, an FBI informant spoke with three Trump associates during the campaign because of suspicion of Russian involvement. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ FILE - Pesident Donald Trump shakes hands with then-FBI Director James Comey in the Blue Room of the White House, in Washington, Jan. 22, 2017. 
+ 
+ 
+ 
+ But Trump vented his ire anew in a Twitter remark Wednesday after Republican Congressman Trey Gowdy said in a televised interview that Jeff Sessions did not tell Trump before he was named attorney general that he would remove himself from control of the Russia investigation. 
+ In a Fox News interview, Gowdy said, "I am even more convinced that the FBI did exactly what my fellow citizens would want them to do when they got the information they got, and that it has nothing to do with Donald Trump." 
+ Despite Gowdy's conclusion, White House spokeswoman Sarah Huckabee Sanders told reporters Wednesday that "certainly there's cause for concern" whether the FBI "acted appropriately" and that investigation of it ought to continue. 
+ Another longtime Trump defender, Fox News legal analyst Andrew Napolitano, said Trump's repeated claims that the FBI placed an undercover spy in his campaign "seem to be baseless." 
+ "There is no evidence for that whatsoever," Napolitano said. 
+ Earlier this month, Trump's lawyer, Rudolph Giuliani, added to the list of explanations Trump and his aides have cited for Comey's firing. Giuliani claimed Comey was dismissed because he would not say publicly that Trump was not being scrutinized in the probe at the time. 
+ Comey himself has said he was dismissed last May because of his handling of the Russia investigation. 
+ 
+ 
+ 
+ 
+ 
+   
+ Related 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Trump Says He Wishes He'd Picked Another AG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+More US Stories  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Lawyers: Immigrant Kids' Detention Is Prolonged, Unexplained 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Russian Lawyer: Suspected US Spy Had Classified Material on Him 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ US: Upcoming Mideast Conference Not Aimed at Demonizing Iran 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ US Vice President to Venezuelan Opposition: 'We Are With You'  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ US Supreme Court Declines Action on DACA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Day in Photos   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ January 22, 2019 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+All About America  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Where Americans Are Moving  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Best US Jobs That Don't Require College Degree 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What Maps Reveal About America's Hidden Past 
+ 
+ 
+ 
+ 
+ 
+ 
+ More 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Recommended 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ VOA Connect: Telling America's Story 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ You may also like 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Africa   
+ 
+ Witnesses Reveal Chilling Details of Zimbabwe Violence  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ East Asia   
+ 
+ Indonesian Campus Rape Victims Seek Justice 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ USA   
+ 
+ A Tiny US Island in Russia's Backyard  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Back to top 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Follow Us
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Other Ways to Access VOA
+ 
+ 
+ 
+ 
+ 
+ Subscribe to our newsletters 
+ 
+ 
+ Subscribe to our podcasts 
+ 
+ 
+ RSS feeds 
+ 
+ 
+ Listen on the radio 
+ 
+ 
+ Get our mobile app 
+ 
+ 
+ Satellite schedule 
+ 
+ 
+ 
+ 
+ 
+ 
+About this site
+ 
+ 
+ 
+ 
+ 
+ Privacy Notice 
+ 
+ 
+ About VOA 
+ 
+ 
+ VOA Around the World 
+ 
+ 
+ Contact VOA 
+ 
+ 
+ Media Relations 
+ 
+ 
+ Usage Requests 
+ 
+ 
+ VOA Pronunciation Guide 
+ 
+ 
+ 
+ 
+ 
+ 
+Site Map
+ 
+ 
+ 
+ 
+ 
+ USA 
+ 
+ 
+ Africa 
+ 
+ 
+ East Asia 
+ 
+ 
+ South & Central Asia 
+ 
+ 
+ Europe 
+ 
+ 
+ Middle East 
+ 
+ 
+ Americas 
+ 
+ 
+ Science & Innovation 
+ 
+ 
+ Economy & Business 
+ 
+ 
+ Health 
+ 
+ 
+ Art & Culture 
+ 
+ 
+ Special Reports 
+ 
+ 
+ VOA Programs 
+ 
+ 
+ Videos 
+ 
+ 
+ Blogs 
+ 
+ 
+ Editorials 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+//test ie 6, 7, 8
+var div = document.createElement("div");
+div.innerHTML = "<!--[if lte IE 8]><i></i><![endif]-->";
+var isIe8orLower = !!div.getElementsByTagName("i").length;
+if (!isIe8orLower && !navigator.userAgent.match(/Opera Mini/i)) {
+document.getElementsByTagName("body")[0].className += " can-ff";
+}
+// mobile browsers test
+if (typeof RFE !== 'undefined') {
+if (RFE.isMobile.any()) {
+document.getElementsByTagName("body")[0].className += " is-mobile";
+}
+else {
+document.getElementsByTagName("body")[0].className += " is-not-mobile";
+}
+}
+ 
+ 
+ 
+ XS 
+ SM 
+ MD 
+ LG 
+ 
+ 
+var bar_data = {
+"apiUrl": "https://voa.pangea-cms.com/publisher/en-US/api/frontend/itemdata",
+"apiId": "4417821",
+"apiType": "1",
+"isEmbedded": "0",
+"cookieName": "cmsLoggedIn",
+"cookieDomain": "www.voanews.com"
+};
+ 
+ 
